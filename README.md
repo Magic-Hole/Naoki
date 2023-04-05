@@ -7,11 +7,11 @@
 
 - [☄・Deploys](#deploys)
 - [🔰・Features](#features)
-- [🌌・Discord](https://discord.gg/zM6ZN9UfRs)
+- [🌌・Discord]([https://discord.gg/zM6ZN9UfRs](https://discord.gg/pJmkdENY))
 - [🎉・Setting up](#setup)
 - [⚙・Config](#config)
 ## <a id="deploys"></a>☄ » Deploys
-> [Deploy with REPLIT](https://replit.com/github/Nekros-dsc/Naoki-Bot)
+> [Deploy with REPLIT](https://replit.com/github/Magic-Hole/Naoki)
 
 ## <a id="features"></a>🛠 » Features
 
