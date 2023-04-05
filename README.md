@@ -19,21 +19,21 @@
 ## <a id="setup"></a> 📁 » Setting up
 
 1. Install [Nodejs](https://nodejs.org/)
-2. Open up [config.json](https://discord.gg/zM6ZN9UfRs) with notepad or some other editor
+2. Open up [config.json](https://discord.gg/pJmkdENY) with notepad or some other editor
 
 # <a id="config"></a>⚙ » Config
 
-If you want to change the config, open up [config.json](https://discord.gg/zM6ZN9UfRs) and locate it at the top. There you can configure the following:
+If you want to change the config, open up [config.json](https://discord.gg/pJmkdENY) and locate it at the top. There you can configure the following:
 
 ```js
 module.exports = {
     app: {
         px: 'prefix',
-        token: 'put-token-here',
+        token: 'token ici',
         owners: ["owner-id","",],//
         funny: 'dev-id',
         color: '#2f3136',
-        footer: 'Nova World',
+        footer: 'Magic World',
         maxserver: '10',
         maxVol: '150',
         everyoneMention: false,
